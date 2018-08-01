@@ -24,5 +24,6 @@
     </dependencies>
     <settings>
         <admin>OCA\Drawio\Settings\AdminSettings</admin>
+        <admin-section>OCA\Drawio\Settings\AdminSection</admin-section>
     </settings>
 </info>

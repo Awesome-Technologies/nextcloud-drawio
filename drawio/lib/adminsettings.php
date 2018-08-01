@@ -32,11 +32,11 @@ class AdminSettings implements ISettings {
 
     public function getSection()
     {
-        return "server";
+        return "drawio";
     }
 
     public function getPriority()
     {
-        return 60;
+        return 10;
     }
 }
